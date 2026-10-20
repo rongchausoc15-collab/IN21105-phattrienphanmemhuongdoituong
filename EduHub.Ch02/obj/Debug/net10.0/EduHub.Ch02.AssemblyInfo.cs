@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EduHub.Ch02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41f130ed1a7030bf64f22ceafd25202c1a5eb81f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+755b95fcea4e8e82304a2b3ddb4a2e4801bb5745")]
 [assembly: System.Reflection.AssemblyProductAttribute("EduHub.Ch02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EduHub.Ch02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
